@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\wzx12\Documents\C++\C语言课程设计\2023 需提交-学号-姓名-班级\源程序文件夹\收发电子邮件\test\main.c(35,15): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\wzx12\Documents\C++\C语言课程设计\2023 需提交-学号-姓名-班级\源程序文件夹\收发电子邮件\test\main.c(37,8): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  test.vcxproj -> C:\Users\wzx12\Documents\C++\C语言课程设计\2023 需提交-学号-姓名-班级\源程序文件夹\收发电子邮件\x64\Debug\test.exe
